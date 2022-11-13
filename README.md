@@ -50,12 +50,12 @@ The following images videos showed the tests done on the deployed smart contract
 3. Deployed contracts
 ![Deployed Contracts](media/03_Deployed_Contracts.png)
 
-https://user-images.githubusercontent.com/80833988/129816362-144cfbb1-163a-4999-a9de-173854a7c643.mov
+https://github.com/jamestan8292/KaseiCoin_Crowdsale/blob/main/media/03_Deployed_Contracts.mov
 
 <br/>
 
 4. The following video shows the purchase of tokens from the crowdsale by an investor
-https://user-images.githubusercontent.com/80833988/129816362-144cfbb1-163a-4999-a9de-173854a7c643.mov
+https://github.com/jamestan8292/KaseiCoin_Crowdsale/blob/main/media/04_Buy_Tokens.mov
 
 <br/>
 
