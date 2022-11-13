@@ -52,6 +52,10 @@ The following images videos showed the tests done on the deployed smart contract
 
 
 
+https://user-images.githubusercontent.com/105999077/201543295-f9a018c9-b737-4589-9f07-980753add80d.mov
+
+
+
 <br/>
 
 4. The following screenshots the purchase of tokens from the crowdsale by an investor
